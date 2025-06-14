@@ -21,27 +21,11 @@ I am a passionate **Backend Developer** and **AI Enthusiast** who thrives on bui
 
 ---
 
-## 🚀 Projects
-
-### 🧠 **AI-Powered Personal Assistant**
-A **machine learning-based assistant** to streamline daily tasks, from email filtering to scheduling and answering queries. Built using **TensorFlow**, **Python**, and **NLP** techniques.
-
-- **Tech Stack**: Python, TensorFlow, Scikit-learn, Flask
-- [GitHub Repo](https://github.com/yourusername/ai-assistant)
-
-### 💻 **Scalable E-commerce Backend**
-A fully-featured, **high-performance backend** for an e-commerce platform. This project supports thousands of concurrent users and integrates with payment services and user authentication.
-
-- **Tech Stack**: Node.js, NestJS, MongoDB, Redis, AWS
-- [GitHub Repo](https://github.com/yourusername/ecommerce-backend)
-
----
-
 ## 📊 GitHub Stats
 
 ![DinhDuong1610's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DinhDuong1610&theme=dark&hide_border=true&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DinhDuong1610&theme=dark&hide_border=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DinhDuong1610&theme=dark&hide_border=true&show_icons=true)
 
 ---
 
