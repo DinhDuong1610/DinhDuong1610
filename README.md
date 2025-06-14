@@ -1,4 +1,4 @@
-# Hi there, I'm Dinh Duong 👋
+# Hi👋, I'm Dinh Duong 
 
 I am a passionate **Backend Developer** and **AI Enthusiast** who thrives on building scalable systems and creating intelligent solutions. I specialize in high-performance backend architectures and developing machine learning models. Let's connect and innovate together!
 
@@ -6,17 +6,15 @@ I am a passionate **Backend Developer** and **AI Enthusiast** who thrives on bui
 
 ### **Backend Development**
 <div align="center">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=transparent" alt="Laravel" title="Laravel: A PHP framework for building robust web applications.">
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=transparent" alt="NestJS" title="NestJS: A progressive Node.js framework for building efficient, reliable, and scalable server-side applications.">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSqT1SJ2-10Nt4SfENScW41TuQBkqvHpApsNeBw6h44_KLbyCywu8NO_y_d4ug6bfLFPKM-z0groqAkCdzBy9oS1GTxpOI_IU0YEANjFETgemUnLKqTZnxAgqQtEJ3aWHEVfyxMmAK4fA/s1600/spring-boot-logo.png?style=for-the-badge&logo=spring&logoColor=white&labelColor=transparent" alt="Spring" title="Spring: A powerful Java-based framework for creating enterprise-grade applications.">
+  <img width="96" height="96" src="https://img.icons8.com/color/96/spring-logo.png" alt="spring-logo"/>
+  <img width="96" height="96" src="https://img.icons8.com/nolan/96/laravel.png" alt="laravel"/>
+  <img width="96" height="96" src="https://img.icons8.com/color/96/nestjs.png" alt="nestjs"/>
 </div>
 
 ### **Artificial Intelligence**
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 - ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-- ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF3C00.svg?style=for-the-badge&logo=opencv&logoColor=white)
-- ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 ---
 
