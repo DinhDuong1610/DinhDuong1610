@@ -12,8 +12,11 @@ I am a passionate **Backend Developer** and **AI Enthusiast** who thrives on bui
 </div>
 
 ### **Artificial Intelligence**
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+<div align="center">
+  <img width="96" height="96" src="https://img.icons8.com/color/96/python--v1.png" alt="python--v1"/>
+  <img width="96" height="96" src="https://img.icons8.com/fluency/96/pytorch.png" alt="pytorch"/>
+  <img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo"/>
+</div>
 
 
 ---
