@@ -5,13 +5,11 @@ I am a passionate **Backend Developer** and **AI Enthusiast** who thrives on bui
 ## 🔧 Tech Stack
 
 ### **Backend Development**
-- ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-- ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel" title="Laravel: A PHP framework for building robust web applications.">
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" alt="NestJS" title="NestJS: A progressive Node.js framework for building efficient, reliable, and scalable server-side applications.">
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Spring" title="Spring: A powerful Java-based framework for creating enterprise-grade applications.">
+</div>
 
 ### **Artificial Intelligence**
 - ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
