@@ -25,14 +25,14 @@ I am a passionate **Backend Developer** and **AI Enthusiast** who thrives on bui
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?user=DinhDuong1610&theme=dark&hide_border=true&show_icons=true" alt="DinhDuong1610" width="100%"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinhDuong1610&theme=algolia" alt="DinhDuong1610" width="100%"/>
     </td>
   </tr>
   <tr>
-    <td width="48%">
+    <td width="48.5%">
      <img src="https://github-readme-stats.vercel.app/api?username=DinhDuong1610&theme=dark&hide_border=true&show_icons=true" alt="DinhDuong1610" width="100%"/>
     </td>
-    <td width="52%">
+    <td width="51.5%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinhDuong1610&theme=dark&hide_border=true&show_icons=true" alt="DinhDuong1610" width="100%"/>
     </td>
   </tr>
