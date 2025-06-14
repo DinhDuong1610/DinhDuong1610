@@ -25,10 +25,10 @@ I am a passionate **Backend Developer** and **AI Enthusiast** who thrives on bui
 <table style="width:100%;">
   <tr>
     <td width="66.5%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinhDuong1610&theme=algolia" alt="DinhDuong1610" width="100%"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinhDuong1610&theme=react-dark" alt="DinhDuong1610" width="100%"/>
     </td>
     <td width="33.5%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinhDuong1610&theme=material_palenight" alt="DinhDuong1610" width="100%"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinhDuong1610&theme=react-dark" alt="DinhDuong1610" width="100%"/>
     </td>
   </tr>
 </table>
@@ -45,7 +45,7 @@ I am a passionate **Backend Developer** and **AI Enthusiast** who thrives on bui
 <table style="width:100%;">
   <tr>
     <td width="100%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DinhDuong1610&theme=github-dark" alt="DinhDuong1610" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DinhDuong1610&theme=react-dark" alt="DinhDuong1610" width="100%"/>
     </td>
   </tr>
 </table>
