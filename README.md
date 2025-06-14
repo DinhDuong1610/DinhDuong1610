@@ -28,6 +28,8 @@ I am a passionate **Backend Developer** and **AI Enthusiast** who thrives on bui
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinhDuong1610&theme=algolia" alt="DinhDuong1610" width="100%"/>
     </td>
   </tr>
+</table>
+<table style="width:100%;">
   <tr>
     <td width="48.5%">
      <img src="https://github-readme-stats.vercel.app/api?username=DinhDuong1610&theme=dark&hide_border=true&show_icons=true" alt="DinhDuong1610" width="100%"/>
