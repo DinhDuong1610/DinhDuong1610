@@ -5,11 +5,17 @@ I am a passionate **Backend Developer** and **AI Enthusiast** who thrives on bui
 ## 🔧 Tech Stack
 
 ### **Backend Development**
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel" title="Laravel: A PHP framework for building robust web applications.">
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" alt="NestJS" title="NestJS: A progressive Node.js framework for building efficient, reliable, and scalable server-side applications.">
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Spring" title="Spring: A powerful Java-based framework for creating enterprise-grade applications.">
+<div style="display: flex; justify-content: space-around; align-items: center; font-family: Arial, sans-serif;">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=transparent" alt="Laravel" title="Laravel: A PHP framework for building robust web applications." style="border-radius: 12px; transition: all 0.3s ease;">
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=transparent" alt="NestJS" title="NestJS: A progressive Node.js framework for building efficient, reliable, and scalable server-side applications." style="border-radius: 12px; transition: all 0.3s ease;">
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&labelColor=transparent" alt="Spring" title="Spring: A powerful Java-based framework for creating enterprise-grade applications." style="border-radius: 12px; transition: all 0.3s ease;">
 </div>
+<style>
+  img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+</style>
 
 ### **Artificial Intelligence**
 - ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
