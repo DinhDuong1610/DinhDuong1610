@@ -45,7 +45,7 @@ I am a passionate **Backend Developer** and **AI Enthusiast** who thrives on bui
 <table style="width:100%;">
   <tr>
     <td width="100%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=TienNHM&theme=green" alt="DinhDuong1610" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DinhDuong1610&theme=github-dark" alt="DinhDuong1610" width="100%"/>
     </td>
   </tr>
 </table>
