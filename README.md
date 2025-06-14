@@ -24,7 +24,7 @@ I am a passionate **Backend Developer** and **AI Enthusiast** who thrives on bui
 ## 📊 GitHub Stats
 <table style="width:100%;">
   <tr>
-    <td>
+    <td width="100%">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinhDuong1610&theme=algolia" alt="DinhDuong1610" width="100%"/>
     </td>
   </tr>
