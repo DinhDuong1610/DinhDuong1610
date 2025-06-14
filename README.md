@@ -8,7 +8,7 @@ I am a passionate **Backend Developer** and **AI Enthusiast** who thrives on bui
 <div align="center">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=transparent" alt="Laravel" title="Laravel: A PHP framework for building robust web applications.">
   <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=transparent" alt="NestJS" title="NestJS: A progressive Node.js framework for building efficient, reliable, and scalable server-side applications.">
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&labelColor=transparent" alt="Spring" title="Spring: A powerful Java-based framework for creating enterprise-grade applications.">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSqT1SJ2-10Nt4SfENScW41TuQBkqvHpApsNeBw6h44_KLbyCywu8NO_y_d4ug6bfLFPKM-z0groqAkCdzBy9oS1GTxpOI_IU0YEANjFETgemUnLKqTZnxAgqQtEJ3aWHEVfyxMmAK4fA/s1600/spring-boot-logo.png?style=for-the-badge&logo=spring&logoColor=white&labelColor=transparent" alt="Spring" title="Spring: A powerful Java-based framework for creating enterprise-grade applications.">
 </div>
 
 ### **Artificial Intelligence**
