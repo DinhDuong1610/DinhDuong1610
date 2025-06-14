@@ -22,10 +22,22 @@ I am a passionate **Backend Developer** and **AI Enthusiast** who thrives on bui
 ---
 
 ## 📊 GitHub Stats
+<table style="width:100%;">
+  <tr>
+    <td>
+      ![DinhDuong1610's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DinhDuong1610&theme=dark&hide_border=true&show_icons=true)
+    </td>
+    <td>
+      <p align="center"> 
+        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DinhDuong1610&theme=dark&hide_border=true&show_icons=true)
+      </p>
+    </td>
+  </tr>
+</table>
 
-![DinhDuong1610's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DinhDuong1610&theme=dark&hide_border=true&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DinhDuong1610&theme=dark&hide_border=true&show_icons=true)
+
+
 
 ---
 
