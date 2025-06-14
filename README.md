@@ -50,18 +50,26 @@ I am a passionate **Backend Developer** and **AI Enthusiast** who thrives on bui
   </tr>
 </table>
 
-
-
-
-
 ---
 
-## 📞 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/dinhduong) | [Email](mailto:youremail@example.com)
-- [Facebook](https://facebook.com/yourprofile) | [TikTok](https://www.tiktok.com/@yourprofile)
-
----
-
-## 💡 Fun Fact
-I believe in the power of **AI** to solve real-world problems and the beauty of **backend systems** in delivering seamless user experiences. Constantly learning and exploring new technologies to stay ahead of the curve. Let's code the future!
+## Certificates
+<table style="width:100%;">
+  <tr>
+    <td width="50%">
+      <img src="./images/bwd.jpg" alt="Best Web Design" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="./images/ICPC.png" alt="ICPC" width="100%"/>
+    </td>
+  </tr>
+</table>
+<table style="width:100%;">
+  <tr>
+    <td width="50%">
+     <img src="./images/ai-for-life.jpg" alt="AI for life" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="./images/ai-challenge.jpg" alt="AI challenge" width="100%"/>
+    </td>
+  </tr>
+</table>
